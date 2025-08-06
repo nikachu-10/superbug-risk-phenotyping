@@ -5,13 +5,13 @@ Este repositorio contiene el código desarrollado para un Trabajo de Fin de Más
 
 ## Objetivos del proyecto
 1. **Predecir el riesgo individual de infección por superbacterias**.
-  - Predicción de la probabilidad de infección por **SARM** (*Staphylococcus aureus* resistente a meticilina) o *K*. BLEE (*Klebsiella pneumoniae* productora de beta-lactamasas de espectro extendido) a partir de características clínicas individuales de cada paciente.
+  - Predicción de la probabilidad de infección por **SARM** (*Staphylococcus aureus* resistente a meticilina) o *K*. BLEE (*Klebsiella pneumoniae* productora de beta-lactamasas de       espectro extendido) a partir de características clínicas individuales de cada paciente.
   - Se aplican y evalúan múltiples modelos de clasificación.
 
 2. **Identificar fenotipos clínicos asociados al riesgo de infección**.
-   - Determinar perfiles de pacientes con mayor susceptibilidad a infecciones por las superbacterias estudiadas, mediante técnicas de agrupamiento (clustering) y modelos supervisados.
+   - Determinar perfiles de pacientes con mayor susceptibilidad a infecciones por las superbacterias estudiadas, mediante técnicas de agrupamiento (clustering) y modelos                  supervisados.
 
-**Objetivos secundarios**:
+  **Objetivos secundarios**:
     - **2.1**: Obtener agrupaciones homogéneas de pacientes utilizando algoritmos de clustering, evaluando si presentan diferentes riesgos de infección.
     - **2.2**: Extraer fenotipos clínicos a partir de las reglas aprendidas por los modelos de clasificación del objetivo 1.
 
