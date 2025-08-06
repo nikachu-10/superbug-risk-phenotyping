@@ -1,5 +1,6 @@
 # superbug-risk-phenotyping
 Predicción del riesgo de infección y caracterización fenotípica de pacientes afectados por superbacterias en entornos hospitalarios mediante modelos de machine learning en Python
+
 Este repositorio contiene el código desarrollado para un Trabajo de Fin de Máster, cuyo objetivo es predecir el riesgo de infección por superbacterias en pacientes hospitalarios e identificar los fenotipos clínicos más asociados a dichas infecciones, empleando técnicas de machine learning supervisado y no supervisado.
 
 ## Objetivos del proyecto
