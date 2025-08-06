@@ -4,16 +4,16 @@ Predicción del riesgo de infección y caracterización fenotípica de pacientes
 Este repositorio contiene el código desarrollado para un Trabajo de Fin de Máster, cuyo objetivo es predecir el riesgo de infección por superbacterias en pacientes hospitalarios e identificar los fenotipos clínicos más asociados a dichas infecciones, empleando técnicas de machine learning supervisado y no supervisado.
 
 ## Objetivos del proyecto
-1. **Predecir el riesgo individual de infección por superbacterias**.
-  - Predicción de la probabilidad de infección por **SARM** (*Staphylococcus aureus* resistente a meticilina) o *K*. BLEE (*Klebsiella pneumoniae* productora de beta-lactamasas de       espectro extendido) a partir de características clínicas individuales de cada paciente.
-  - Se aplican y evalúan múltiples modelos de clasificación.
+1. **Predecir el riesgo individual de infección por superbacterias**
+   - Predicción de la probabilidad de infección por **SARM** (*Staphylococcus aureus* resistente a meticilina) o *K*. BLEE (*Klebsiella pneumoniae* productora de beta-lactamasas de       espectro extendido) a partir de características clínicas individuales de cada paciente.
+   - Se aplican y evalúan múltiples modelos de clasificación.
 
-2. **Identificar fenotipos clínicos asociados al riesgo de infección**.
+2. **Identificar fenotipos clínicos asociados al riesgo de infección**
    - Determinar perfiles de pacientes con mayor susceptibilidad a infecciones por las superbacterias estudiadas, mediante técnicas de agrupamiento (clustering) y modelos                  supervisados.
 
-  **Objetivos secundarios**:
-    - **2.1**: Obtener agrupaciones homogéneas de pacientes utilizando algoritmos de clustering, evaluando si presentan diferentes riesgos de infección.
-    - **2.2**: Extraer fenotipos clínicos a partir de las reglas aprendidas por los modelos de clasificación del objetivo 1.
+   **Objetivos secundarios:**
+   - **2.1**: Obtener agrupaciones homogéneas de pacientes utilizando algoritmos de clustering, evaluando si presentan diferentes riesgos de infección.
+   - **2.2**: Extraer fenotipos clínicos a partir de las reglas aprendidas por los modelos de clasificación del objetivo 1.
 
 # Datos utilizados
 Se utilizaron dos **datasets de carácter privado** derivados de la base de datos **MIMIC-III**.
